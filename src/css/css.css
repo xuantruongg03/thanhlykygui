@@ -1,0 +1,49 @@
+.kgdt{
+    display: flex;
+    flex-direction: column;
+    background-color: #F9F9F9;
+    padding: 30px;
+    border: 1px solid #222;
+    transition: width 0.3s,height 0.5s;
+}
+.actkg{
+    color: #222222;
+    text-decoration: none;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.actkg:hover{
+    text-decoration: underline 1px #ccc;
+    color: #aaa;
+}
+.ctkg{
+    text-align: center;
+    color: black;
+    font-size: 20px;
+}
+.chilkg{
+    margin-left: 15px;
+}
+.hdkgn{
+    font-size: 25px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #222;
+}
+html {
+    scroll-behavior: smooth;
+  }
+  
+.shdkgn{
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #222;
+}
+.ctn-11 ul li{
+    list-style-type: initial;
+    margin-left: 20px;
+}
+.ctn-11{
+    margin-bottom: 50px;
+}

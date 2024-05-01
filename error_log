@@ -1,0 +1,68 @@
+[08-Apr-2024 10:07:06 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'thanhly1_userkygui2'@'localhost' to database ' thanhly1_kygui' in /home/thanhly1/public_html/kygui/src/config/connectDB.php on line 10
+[08-Apr-2024 10:07:06 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/thanhly1/public_html/kygui/src/config/connectDB.php on line 11
+[08-Apr-2024 10:07:20 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'thanhly1_userkygui2'@'localhost' to database ' thanhly1_kygui' in /home/thanhly1/public_html/kygui/src/config/connectDB.php on line 10
+[08-Apr-2024 10:07:20 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/thanhly1/public_html/kygui/src/config/connectDB.php on line 11
+[08-Apr-2024 10:07:21 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'thanhly1_userkygui2'@'localhost' to database ' thanhly1_kygui' in /home/thanhly1/public_html/kygui/src/config/connectDB.php on line 10
+[08-Apr-2024 10:07:21 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/thanhly1/public_html/kygui/src/config/connectDB.php on line 11
+[08-Apr-2024 10:07:22 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'thanhly1_userkygui2'@'localhost' to database ' thanhly1_kygui' in /home/thanhly1/public_html/kygui/src/config/connectDB.php on line 10
+[08-Apr-2024 10:07:22 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/thanhly1/public_html/kygui/src/config/connectDB.php on line 11
+[08-Apr-2024 10:07:23 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'thanhly1_userkygui2'@'localhost' to database ' thanhly1_kygui' in /home/thanhly1/public_html/kygui/src/config/connectDB.php on line 10
+[08-Apr-2024 10:07:23 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/thanhly1/public_html/kygui/src/config/connectDB.php on line 11
+[08-Apr-2024 10:07:23 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'thanhly1_userkygui2'@'localhost' to database ' thanhly1_kygui' in /home/thanhly1/public_html/kygui/src/config/connectDB.php on line 10
+[08-Apr-2024 10:07:23 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/thanhly1/public_html/kygui/src/config/connectDB.php on line 11
+[08-Apr-2024 10:07:24 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'thanhly1_userkygui2'@'localhost' to database ' thanhly1_kygui' in /home/thanhly1/public_html/kygui/src/config/connectDB.php on line 10
+[08-Apr-2024 10:07:24 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/thanhly1/public_html/kygui/src/config/connectDB.php on line 11
+[08-Apr-2024 10:07:36 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'thanhly1_userkygui2'@'localhost' to database ' thanhly1_kygui' in /home/thanhly1/public_html/kygui/src/config/connectDB.php on line 10
+[08-Apr-2024 10:07:36 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/thanhly1/public_html/kygui/src/config/connectDB.php on line 11
+[08-Apr-2024 22:35:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: type in /home/thanhly1/public_html/kygui/src/pages/home.php on line 11
+[08-Apr-2024 22:35:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: image in /home/thanhly1/public_html/kygui/src/pages/home.php on line 15
+[08-Apr-2024 22:35:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: size in /home/thanhly1/public_html/kygui/src/pages/home.php on line 17
+[08-Apr-2024 22:35:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quantity in /home/thanhly1/public_html/kygui/src/pages/home.php on line 21
+[08-Apr-2024 22:35:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: id in /home/thanhly1/public_html/kygui/src/pages/home.php on line 27
+[08-Apr-2024 22:35:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: id in /home/thanhly1/public_html/kygui/src/pages/home.php on line 35
+[08-Apr-2024 22:35:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: name in /home/thanhly1/public_html/kygui/src/pages/home.php on line 36
+[08-Apr-2024 22:35:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: price in /home/thanhly1/public_html/kygui/src/pages/home.php on line 40
+[08-Apr-2024 22:35:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/thanhly1/public_html/kygui/src/pages/home.php on line 54
+[08-Apr-2024 22:35:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: id in /home/thanhly1/public_html/kygui/src/pages/home.php on line 54
+[08-Apr-2024 22:35:24 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/thanhly1/public_html/kygui/src/pages/home.php on line 54
+[08-Apr-2024 22:35:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: id in /home/thanhly1/public_html/kygui/src/pages/home.php on line 57
+[08-Apr-2024 22:35:24 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/thanhly1/public_html/kygui/src/pages/home.php on line 77
+[08-Apr-2024 22:35:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: name in /home/thanhly1/public_html/kygui/src/pages/home.php on line 105
+[08-Apr-2024 22:35:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: price in /home/thanhly1/public_html/kygui/src/pages/home.php on line 109
+[08-Apr-2024 22:35:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: description in /home/thanhly1/public_html/kygui/src/pages/home.php on line 113
+[08-Apr-2024 22:35:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: size in /home/thanhly1/public_html/kygui/src/pages/home.php on line 126
+[08-Apr-2024 22:35:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: trademark in /home/thanhly1/public_html/kygui/src/pages/home.php on line 141
+[08-Apr-2024 22:35:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: id in /home/thanhly1/public_html/kygui/src/pages/home.php on line 155
+[08-Apr-2024 22:35:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: id in /home/thanhly1/public_html/kygui/src/pages/home.php on line 161
+[08-Apr-2024 22:35:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: name in /home/thanhly1/public_html/kygui/src/pages/home.php on line 161
+[08-Apr-2024 22:35:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: id in /home/thanhly1/public_html/kygui/src/pages/home.php on line 162
+[08-Apr-2024 22:35:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: price in /home/thanhly1/public_html/kygui/src/pages/home.php on line 162
+[08-Apr-2024 22:35:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: id in /home/thanhly1/public_html/kygui/src/pages/home.php on line 163
+[08-Apr-2024 22:35:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: image in /home/thanhly1/public_html/kygui/src/pages/home.php on line 163
+[08-Apr-2024 22:35:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: id in /home/thanhly1/public_html/kygui/src/pages/home.php on line 164
+[08-Apr-2024 22:35:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: type in /home/thanhly1/public_html/kygui/src/pages/home.php on line 11
+[08-Apr-2024 22:35:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: image in /home/thanhly1/public_html/kygui/src/pages/home.php on line 15
+[08-Apr-2024 22:35:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: size in /home/thanhly1/public_html/kygui/src/pages/home.php on line 17
+[08-Apr-2024 22:35:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quantity in /home/thanhly1/public_html/kygui/src/pages/home.php on line 21
+[08-Apr-2024 22:35:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: id in /home/thanhly1/public_html/kygui/src/pages/home.php on line 27
+[08-Apr-2024 22:35:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: id in /home/thanhly1/public_html/kygui/src/pages/home.php on line 35
+[08-Apr-2024 22:35:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: name in /home/thanhly1/public_html/kygui/src/pages/home.php on line 36
+[08-Apr-2024 22:35:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: price in /home/thanhly1/public_html/kygui/src/pages/home.php on line 40
+[08-Apr-2024 22:35:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/thanhly1/public_html/kygui/src/pages/home.php on line 54
+[08-Apr-2024 22:35:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: id in /home/thanhly1/public_html/kygui/src/pages/home.php on line 54
+[08-Apr-2024 22:35:30 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/thanhly1/public_html/kygui/src/pages/home.php on line 54
+[08-Apr-2024 22:35:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: id in /home/thanhly1/public_html/kygui/src/pages/home.php on line 57
+[08-Apr-2024 22:35:30 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/thanhly1/public_html/kygui/src/pages/home.php on line 77
+[08-Apr-2024 22:35:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: name in /home/thanhly1/public_html/kygui/src/pages/home.php on line 105
+[08-Apr-2024 22:35:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: price in /home/thanhly1/public_html/kygui/src/pages/home.php on line 109
+[08-Apr-2024 22:35:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: description in /home/thanhly1/public_html/kygui/src/pages/home.php on line 113
+[08-Apr-2024 22:35:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: size in /home/thanhly1/public_html/kygui/src/pages/home.php on line 126
+[08-Apr-2024 22:35:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: trademark in /home/thanhly1/public_html/kygui/src/pages/home.php on line 141
+[08-Apr-2024 22:35:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: id in /home/thanhly1/public_html/kygui/src/pages/home.php on line 155
+[08-Apr-2024 22:35:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: id in /home/thanhly1/public_html/kygui/src/pages/home.php on line 161
+[08-Apr-2024 22:35:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: name in /home/thanhly1/public_html/kygui/src/pages/home.php on line 161
+[08-Apr-2024 22:35:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: id in /home/thanhly1/public_html/kygui/src/pages/home.php on line 162
+[08-Apr-2024 22:35:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: price in /home/thanhly1/public_html/kygui/src/pages/home.php on line 162
+[08-Apr-2024 22:35:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: id in /home/thanhly1/public_html/kygui/src/pages/home.php on line 163
+[08-Apr-2024 22:35:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: image in /home/thanhly1/public_html/kygui/src/pages/home.php on line 163
+[08-Apr-2024 22:35:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: id in /home/thanhly1/public_html/kygui/src/pages/home.php on line 164

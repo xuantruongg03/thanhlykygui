@@ -1,0 +1,4 @@
+[08-Apr-2024 21:05:47 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/thanhly1/public_html/kygui/src/admin/controllers/order_rec_delete.php on line 7
+[08-Apr-2024 21:05:47 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/thanhly1/public_html/kygui/src/admin/controllers/order_rec_delete.php on line 12
+[08-Apr-2024 21:05:57 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/thanhly1/public_html/kygui/src/admin/controllers/order_rec_delete.php on line 7
+[08-Apr-2024 21:05:57 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/thanhly1/public_html/kygui/src/admin/controllers/order_rec_delete.php on line 12

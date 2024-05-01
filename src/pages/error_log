@@ -1,0 +1,90 @@
+[08-Apr-2024 10:27:16 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: result1 in /home/thanhly1/public_html/kygui/src/pages/product.php on line 167
+[08-Apr-2024 10:27:16 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/thanhly1/public_html/kygui/src/pages/product.php on line 167
+[08-Apr-2024 10:29:00 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: result1 in /home/thanhly1/public_html/kygui/src/pages/product.php on line 167
+[08-Apr-2024 10:29:00 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/thanhly1/public_html/kygui/src/pages/product.php on line 167
+[08-Apr-2024 10:29:06 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: result1 in /home/thanhly1/public_html/kygui/src/pages/product.php on line 167
+[08-Apr-2024 10:29:06 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/thanhly1/public_html/kygui/src/pages/product.php on line 167
+[08-Apr-2024 10:29:10 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: result1 in /home/thanhly1/public_html/kygui/src/pages/product.php on line 167
+[08-Apr-2024 10:29:10 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/thanhly1/public_html/kygui/src/pages/product.php on line 167
+[08-Apr-2024 10:29:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: result1 in /home/thanhly1/public_html/kygui/src/pages/product.php on line 167
+[08-Apr-2024 10:29:24 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/thanhly1/public_html/kygui/src/pages/product.php on line 167
+[08-Apr-2024 10:30:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: result1 in /home/thanhly1/public_html/kygui/src/pages/product.php on line 167
+[08-Apr-2024 10:30:24 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/thanhly1/public_html/kygui/src/pages/product.php on line 167
+[08-Apr-2024 10:34:30 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thanhly1/public_html/kygui/src/components/header.php:8) in /home/thanhly1/public_html/kygui/src/pages/blog-detail.php on line 5
+[08-Apr-2024 10:34:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id in /home/thanhly1/public_html/kygui/src/pages/blog-detail.php on line 7
+[08-Apr-2024 10:34:30 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/thanhly1/public_html/kygui/src/pages/blog-detail.php on line 10
+[08-Apr-2024 10:34:30 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thanhly1/public_html/kygui/src/components/header.php:8) in /home/thanhly1/public_html/kygui/src/pages/blog-detail.php on line 160
+[08-Apr-2024 10:34:44 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thanhly1/public_html/kygui/src/components/header.php:8) in /home/thanhly1/public_html/kygui/src/pages/blog-detail.php on line 5
+[08-Apr-2024 10:34:44 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id in /home/thanhly1/public_html/kygui/src/pages/blog-detail.php on line 7
+[08-Apr-2024 10:34:44 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/thanhly1/public_html/kygui/src/pages/blog-detail.php on line 10
+[08-Apr-2024 10:34:44 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thanhly1/public_html/kygui/src/components/header.php:8) in /home/thanhly1/public_html/kygui/src/pages/blog-detail.php on line 160
+[08-Apr-2024 10:34:52 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thanhly1/public_html/kygui/src/components/header.php:8) in /home/thanhly1/public_html/kygui/src/pages/blog-detail.php on line 5
+[08-Apr-2024 10:34:52 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id in /home/thanhly1/public_html/kygui/src/pages/blog-detail.php on line 7
+[08-Apr-2024 10:34:52 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/thanhly1/public_html/kygui/src/pages/blog-detail.php on line 10
+[08-Apr-2024 10:34:52 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thanhly1/public_html/kygui/src/components/header.php:8) in /home/thanhly1/public_html/kygui/src/pages/blog-detail.php on line 160
+[08-Apr-2024 10:35:03 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thanhly1/public_html/kygui/src/components/header.php:8) in /home/thanhly1/public_html/kygui/src/pages/blog-detail.php on line 5
+[08-Apr-2024 10:35:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id in /home/thanhly1/public_html/kygui/src/pages/blog-detail.php on line 7
+[08-Apr-2024 10:35:03 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/thanhly1/public_html/kygui/src/pages/blog-detail.php on line 10
+[08-Apr-2024 10:35:03 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thanhly1/public_html/kygui/src/components/header.php:8) in /home/thanhly1/public_html/kygui/src/pages/blog-detail.php on line 160
+[08-Apr-2024 10:38:35 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thanhly1/public_html/kygui/src/components/header.php:8) in /home/thanhly1/public_html/kygui/src/pages/blog-detail.php on line 5
+[08-Apr-2024 10:38:35 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id in /home/thanhly1/public_html/kygui/src/pages/blog-detail.php on line 7
+[08-Apr-2024 10:38:35 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/thanhly1/public_html/kygui/src/pages/blog-detail.php on line 10
+[08-Apr-2024 10:38:35 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thanhly1/public_html/kygui/src/components/header.php:8) in /home/thanhly1/public_html/kygui/src/pages/blog-detail.php on line 160
+[08-Apr-2024 12:13:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: result1 in /home/thanhly1/public_html/kygui/src/pages/product.php on line 167
+[08-Apr-2024 12:13:05 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/thanhly1/public_html/kygui/src/pages/product.php on line 167
+[08-Apr-2024 21:50:36 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home/thanhly1/public_html/kygui/src/pages/tracker.php on line 77
+[08-Apr-2024 21:50:47 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home/thanhly1/public_html/kygui/src/pages/tracker.php on line 77
+[08-Apr-2024 21:51:24 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home/thanhly1/public_html/kygui/src/pages/tracker.php on line 77
+[08-Apr-2024 21:52:01 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home/thanhly1/public_html/kygui/src/pages/tracker.php on line 77
+[08-Apr-2024 21:53:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: result1 in /home/thanhly1/public_html/kygui/src/pages/product.php on line 168
+[08-Apr-2024 21:53:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/thanhly1/public_html/kygui/src/pages/product.php on line 168
+[08-Apr-2024 21:56:18 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: image in /home/thanhly1/public_html/kygui/src/pages/product-detail.php on line 149
+[08-Apr-2024 22:07:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: result1 in /home/thanhly1/public_html/kygui/src/pages/product.php on line 168
+[08-Apr-2024 22:07:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/thanhly1/public_html/kygui/src/pages/product.php on line 168
+[08-Apr-2024 22:07:28 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: result1 in /home/thanhly1/public_html/kygui/src/pages/product.php on line 168
+[08-Apr-2024 22:07:28 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/thanhly1/public_html/kygui/src/pages/product.php on line 168
+[08-Apr-2024 22:15:38 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quantity in /home/thanhly1/public_html/kygui/src/components/item_product/item_product.php on line 23
+[08-Apr-2024 22:15:38 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quantity in /home/thanhly1/public_html/kygui/src/components/item_product/item_product.php on line 23
+[08-Apr-2024 22:21:28 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quantity in /home/thanhly1/public_html/kygui/src/components/item_product/item_product.php on line 23
+[08-Apr-2024 22:21:28 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quantity in /home/thanhly1/public_html/kygui/src/components/item_product/item_product.php on line 23
+[08-Apr-2024 22:33:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quantity in /home/thanhly1/public_html/kygui/src/components/item_product/item_product.php on line 23
+[08-Apr-2024 22:33:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quantity in /home/thanhly1/public_html/kygui/src/components/item_product/item_product.php on line 23
+[08-Apr-2024 22:33:42 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quantity in /home/thanhly1/public_html/kygui/src/components/item_product/item_product.php on line 23
+[08-Apr-2024 22:33:42 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quantity in /home/thanhly1/public_html/kygui/src/components/item_product/item_product.php on line 23
+[08-Apr-2024 22:34:01 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quantity in /home/thanhly1/public_html/kygui/src/components/item_product/item_product.php on line 23
+[08-Apr-2024 22:34:01 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quantity in /home/thanhly1/public_html/kygui/src/components/item_product/item_product.php on line 23
+[08-Apr-2024 22:35:10 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quantity in /home/thanhly1/public_html/kygui/src/components/item_product/item_product.php on line 23
+[08-Apr-2024 22:35:10 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quantity in /home/thanhly1/public_html/kygui/src/components/item_product/item_product.php on line 23
+[08-Apr-2024 22:35:13 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quantity in /home/thanhly1/public_html/kygui/src/components/item_product/item_product.php on line 23
+[08-Apr-2024 22:35:13 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quantity in /home/thanhly1/public_html/kygui/src/components/item_product/item_product.php on line 23
+[08-Apr-2024 22:35:26 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quantity in /home/thanhly1/public_html/kygui/src/components/item_product/item_product.php on line 23
+[08-Apr-2024 22:35:26 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quantity in /home/thanhly1/public_html/kygui/src/components/item_product/item_product.php on line 23
+[08-Apr-2024 22:35:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quantity in /home/thanhly1/public_html/kygui/src/components/item_product/item_product.php on line 23
+[08-Apr-2024 22:35:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quantity in /home/thanhly1/public_html/kygui/src/components/item_product/item_product.php on line 23
+[08-Apr-2024 22:37:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quantity in /home/thanhly1/public_html/kygui/src/components/item_product/item_product.php on line 23
+[08-Apr-2024 22:37:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quantity in /home/thanhly1/public_html/kygui/src/components/item_product/item_product.php on line 23
+[08-Apr-2024 22:37:54 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quantity in /home/thanhly1/public_html/kygui/src/components/item_product/item_product.php on line 23
+[08-Apr-2024 22:37:54 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quantity in /home/thanhly1/public_html/kygui/src/components/item_product/item_product.php on line 23
+[08-Apr-2024 22:37:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quantity in /home/thanhly1/public_html/kygui/src/components/item_product/item_product.php on line 23
+[08-Apr-2024 22:37:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quantity in /home/thanhly1/public_html/kygui/src/components/item_product/item_product.php on line 23
+[08-Apr-2024 22:38:06 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quantity in /home/thanhly1/public_html/kygui/src/components/item_product/item_product.php on line 23
+[08-Apr-2024 22:38:06 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quantity in /home/thanhly1/public_html/kygui/src/components/item_product/item_product.php on line 23
+[08-Apr-2024 22:38:07 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quantity in /home/thanhly1/public_html/kygui/src/components/item_product/item_product.php on line 23
+[08-Apr-2024 22:38:07 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quantity in /home/thanhly1/public_html/kygui/src/components/item_product/item_product.php on line 23
+[08-Apr-2024 22:38:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quantity in /home/thanhly1/public_html/kygui/src/components/item_product/item_product.php on line 23
+[08-Apr-2024 22:38:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quantity in /home/thanhly1/public_html/kygui/src/components/item_product/item_product.php on line 23
+[08-Apr-2024 22:38:10 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quantity in /home/thanhly1/public_html/kygui/src/components/item_product/item_product.php on line 23
+[08-Apr-2024 22:38:10 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quantity in /home/thanhly1/public_html/kygui/src/components/item_product/item_product.php on line 23
+[08-Apr-2024 22:43:38 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: image in /home/thanhly1/public_html/kygui/src/pages/product-detail.php on line 149
+[08-Apr-2024 22:45:19 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: image in /home/thanhly1/public_html/kygui/src/pages/product-detail.php on line 149
+[08-Apr-2024 22:48:55 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: image in /home/thanhly1/public_html/kygui/src/pages/product-detail.php on line 149
+[08-Apr-2024 22:51:33 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: image in /home/thanhly1/public_html/kygui/src/pages/product-detail.php on line 149
+[08-Apr-2024 23:00:33 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: image in /home/thanhly1/public_html/kygui/src/pages/product-detail.php on line 149
+[13-Apr-2024 17:38:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: result1 in /home/thanhly1/public_html/kygui/src/pages/product.php on line 172
+[13-Apr-2024 17:38:59 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/thanhly1/public_html/kygui/src/pages/product.php on line 172
+[13-Apr-2024 17:39:04 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: result1 in /home/thanhly1/public_html/kygui/src/pages/product.php on line 172
+[13-Apr-2024 17:39:04 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/thanhly1/public_html/kygui/src/pages/product.php on line 172
+[13-Apr-2024 17:39:14 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: result1 in /home/thanhly1/public_html/kygui/src/pages/product.php on line 172
+[13-Apr-2024 17:39:14 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/thanhly1/public_html/kygui/src/pages/product.php on line 172
+[17-Apr-2024 22:10:50 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: result1 in /home/thanhly1/public_html/kygui/src/pages/product.php on line 172
+[17-Apr-2024 22:10:50 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/thanhly1/public_html/kygui/src/pages/product.php on line 172
